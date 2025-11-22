@@ -1,4 +1,6 @@
-# DoH Proxy Server
+##DoH Proxy Server
+
+This project is a DNS over HTTPS (DoH) proxy server, fully developed with the help of AI. It is still under active development, and bug fixes and improvements will be released soon.
 
 High-performance DNS over HTTPS (DoH) proxy server built with NestJS. Forwards client DoH requests to Cloudflare's secure DoH service.
 
